@@ -264,6 +264,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Image to 3D AI](https://imageto3dai.org/black-friday) | 2× credits · first subscription term and subscriber packs, through Dec 1, 2026 (PT) | — | — |
 | [FixImage](https://fiximage.net/black-friday) | 2× credits · first subscription term and subscriber packs, through Dec 1, 2026 (PT) | — | — |
 | [RemoveVideoBG.com](https://removevideobg.com/black-friday) | 2× credits · packs and first month; 6 extra months of credits · new annual plans | — | — |
+| [YIX](https://yix.ai/pricing) | 50% off · first month of new monthly plans | From US$9.95 / month · Starter, first month | — |
 
 <a name="web"></a>
 
